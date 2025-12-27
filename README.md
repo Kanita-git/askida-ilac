@@ -11,6 +11,10 @@ arama, sıralama ve önceliklendirme işlemleri sunulur.
 Proje, askıda ilaç ve nöbetçi eczane kavramlarından ilham alan
 eğitsel bir simülasyondur.
 
+## Ekip Üyeleri
+- TUBA 
+- ZEYNEP SENA BEYHAN
+- KANITA ABAZI
 
 ## Kullanılan Veri Yapıları
 - **Trie**: İlaç isimlerinde hızlı arama
