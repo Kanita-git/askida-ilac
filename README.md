@@ -8,6 +8,9 @@ göstermek amacıyla geliştirilmiştir.
 ## Proje Amacı
 İlaç verileri bir JSON dosyasından okunur ve kullanıcıya;
 arama, sıralama ve önceliklendirme işlemleri sunulur.
+Proje, askıda ilaç ve nöbetçi eczane kavramlarından ilham alan
+eğitsel bir simülasyondur.
+
 
 ## Kullanılan Veri Yapıları
 - **Trie**: İlaç isimlerinde hızlı arama
