@@ -1,5 +1,3 @@
-# askida-ilac
-
 # Askıda İlaç
 
 Askıda İlaç, ilaç bağışı ve önceliklendirme mantığını simüle eden
